@@ -1,0 +1,57 @@
+body{
+	background-color: #13756D;
+}
+h2 {
+	font-size: 4em;
+	font-family: megrim, fantasy;
+	background: #1CA89C;
+	padding:45px;
+	margin:0;
+	color:#333;
+	text-align: center;
+}
+
+
+
+ul{
+	padding: 0;
+	margin: 0;
+}
+li {
+  font-family: megrim, fantasy;
+  font-size: 2em;
+  padding: 40px;
+  margin-left: 0;
+  color: #333
+}
+li input[type="checkbox"] {
+  width: 40px;
+  height: 25px;
+
+}
+.add-input{
+	width: 60%;
+	height: 20px;
+	background-color: #666;
+	float: left;
+	font-size: 2em;
+	font-family: sans-serif;
+	padding: 40px 0;
+	margin: 0; 
+	text-indent: 55px;
+	border: none;
+}
+.add-button{
+	width: 40%;
+	height: 100px;
+	background-color: #29F4E3;
+	font-size: 3em;
+	font-family: sans-serif;
+	padding: 10px;
+	margin: 0;
+}
+.checkbox{
+	
+
+}
+
